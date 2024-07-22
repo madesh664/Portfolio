@@ -1,0 +1,22 @@
+      body{
+            font-family: Arial, sans-serif;
+        }
+        .tab {
+            display: none;
+        }
+        .tablinks {
+            background-color: #f1f1f1;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+        }
+        .tablinks:hover {
+            background-color: #ddd;
+        }
+        .tabcontent {
+            display: none;
+            padding: 20px;
+            border-top: none;
+        }
